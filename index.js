@@ -3,7 +3,6 @@ function createGreetingMessage(name) {
   const message = `Hello, ${name}`;
   return message;
 }
-
 // const greetingMessage = createGreetingMessage('Christopher');
 // const greetingMessage = createGreetingMessage('Christopher');
 
