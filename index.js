@@ -1,10 +1,13 @@
-// Greeting message function
+// SAMPLE FUNCTION DECLARATION
+
 function createGreetingMessage(name) {
   const message = `Hello, ${name}`;
   return message;
 }
 // const greetingMessage = createGreetingMessage('Christopher');
 // const greetingMessage = createGreetingMessage('Christopher');
+
+// CALLING
 
 function displayDone() {
     console.log('3 second has elapsed');
