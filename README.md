@@ -1,3 +1,3 @@
-#Jacaranda fire
-#Grada update
-#Rio upgrade
+# Instruction
+
+This doc content the first js file
